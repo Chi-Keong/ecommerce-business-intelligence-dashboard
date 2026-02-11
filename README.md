@@ -33,23 +33,23 @@ Are there hidden risks in receivables and payment collection?
 
 Raw CSV Data
 
-        ↓
+↓
 
 Python (Cleaning \& Standardisation)
 
-        ↓
+↓
 
 SQL Tables
 
-        ↓
+↓
 
 SQL Views (Business Logic Layer)
 
-        ↓
+↓
 
 Power BI (Modelling \& Visualisation)
 
-        ↓
+↓
 
 KPI Validation (Cross-check with SQL)
 
